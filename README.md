@@ -48,8 +48,8 @@ Customer Retention: The business showed a positive trend in customer loyalty. Sa
 
 
 
-📸 Dashboard Visuals
-(Note: These are placeholders. Upload your screenshots to a folder named screenshots in your repo and uncomment the lines below)
+<img width="1274" height="723" alt="image" src="https://github.com/user-attachments/assets/98142632-9a72-441b-bf8a-409b064ed063" />
+
 
 ⚙️ Technical Process
 1. Data Cleaning & Transformation (ETL)
