@@ -90,4 +90,6 @@ Open the .pbix file in Microsoft Power BI Desktop.
 The data source is currently linked to the static Excel file included in the data folder. You may need to update the data source path via Transform Data -> Data Source Settings.
 
 📬 Contact
-Your Name [LinkedIn Profile Link] | [Email Address
+Vinayak Jain 
+LinkdenIN - https://www.linkedin.com/in/vinayak-jain-69801b328/ 
+vinayakjainn11@gmail.com
