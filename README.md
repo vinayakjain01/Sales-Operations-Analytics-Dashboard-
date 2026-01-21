@@ -50,6 +50,8 @@ Customer Retention: The business showed a positive trend in customer loyalty. Sa
 
 <img width="1274" height="723" alt="image" src="https://github.com/user-attachments/assets/98142632-9a72-441b-bf8a-409b064ed063" />
 <img width="1278" height="730" alt="image" src="https://github.com/user-attachments/assets/40d70ca3-c0b3-4742-a84f-3351d1499111" />
+<img width="1279" height="735" alt="image" src="https://github.com/user-attachments/assets/ae94d3f2-c7ae-4075-91a5-42b30c49fc4a" />
+
 
 
 
